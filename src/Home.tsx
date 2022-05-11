@@ -655,7 +655,7 @@ const Home = (props: HomeProps) => {
                     <DesContainer>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>The GOBLIN RAID DAO</GoldTitle></LogoAligner>
-                            <p>Goblin raid is a Collection of 2000 blue-chip NFTs that serve as a membership key in the <br />
+                            <p>Goblin raid is a Collection of 1000 blue-chip NFTs that serve as a membership key in the <br />
                                 Goblin raid  DAO. Our mission is to generate revenue through Decentralized Application <br />
                                 Developments and offering a Decentralised software as a Service to other emerging projects. <br />
                                 30% of fees from all our DAPPs goes to our community treasury and staking pool.</p>
