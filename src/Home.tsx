@@ -282,7 +282,7 @@ const Home = (props: HomeProps) => {
     const [isSoldOut, setIsSoldOut] = useState(false);
     const [payWithSplToken, setPayWithSplToken] = useState(false);
     const [price, setPrice] = useState(0);
-    const [priceLabel, setPriceLabel] = useState<string>("SOL");
+    const [priceLabel, setPriceLabel] = useState<string>("0 SOL");
     const [whitelistPrice, setWhitelistPrice] = useState(0);
     const [whitelistEnabled, setWhitelistEnabled] = useState(false);
     const [isBurnToken, setIsBurnToken] = useState(false);
@@ -569,7 +569,7 @@ const Home = (props: HomeProps) => {
                             <h2>Goblin Raid DAO</h2>
                             <br/>
                             <div><Price
-                                label={isActive && whitelistEnabled && (whitelistTokenBalance > 0) ? (whitelistPrice + " " + priceLabel) : (price + " " + priceLabel)}/><Image
+                                label={isActive && whitelistEnabled && (whitelistTokenBalance > 0) ? (whitelistPrice + " " + priceLabel) : (priceLabel)}/><Image
                                 src="goblins.gif"
                                 alt="NFT To Mint"/></div>
                             <br/>
