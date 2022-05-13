@@ -653,12 +653,17 @@ const Home = (props: HomeProps) => {
                         </NFT>
                     </DesContainer>
                     <DesContainer>
-                        <Des elevation={2}>
+                    <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>The GOBLIN RAID DAO</GoldTitle></LogoAligner>
                             <p>Goblin raid is a Collection of 1000 blue-chip NFTs that serve as a membership key in the <br />
-                                Goblin raid  DAO. Our mission is to generate revenue through Decentralized Application <br />
-                                Developments and offering a Decentralised software as a Service to other emerging projects. <br />
-                                30% of fees from all our DAPPs goes to our community treasury and staking pool.</p>
+                                Goblin raid  DAO.</p>
+                                <p>Earn $GOBLET token and SOL from our staking platform. 49% of royalties goes into Staking 
+                                    Pool Address. 21% goes into Community Treasury Address.</p>
+                            <p>After the mint, each minted NFT will earn you 10,000 $GOBLET. eg. if you mint 3 NFTs your 
+                                airdrop will be (3 x 10,000) $GOBLET. <br />
+                                Click the button below to claim your $GOBLET Token.
+                            </p>
+                            <a className="claimBtn" href="https://docs.google.com/forms/d/1EzyieKWodB8i91nxScMRBUbNzGIVgFzN-e59omjQ7LI" target="_blank" rel="noreferrer">CLAIM TOKEN</a>
                         </Des>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>10 REASONS WHY YOU NEED GBR DAO NFT</GoldTitle></LogoAligner>
