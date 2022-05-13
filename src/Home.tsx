@@ -650,6 +650,8 @@ const Home = (props: HomeProps) => {
                             <br/>
                             {wallet && isActive && solanaExplorerLink &&
                               <SolExplorerLink href={solanaExplorerLink} target="_blank">View on Solscan</SolExplorerLink>}
+                              <p className="solwarning">Solana network is congested! If your tranaction fails, <br />be sure you 
+                            have enouph SOL to cover the fees and keep trying.</p>
                         </NFT>
                     </DesContainer>
                     <DesContainer>

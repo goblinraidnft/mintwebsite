@@ -43,3 +43,8 @@ font-weight: normal;
   background-color: #636d75;
 }
 
+.solwarning {
+  font-size: 20px;
+  font-weight: 600;
+  color: #edfa00db;
+}
