@@ -664,6 +664,8 @@ const Home = (props: HomeProps) => {
                                 Click the button below to claim your $GOBLET Token.
                             </p>
                             <a className="claimBtn" href="https://docs.google.com/forms/d/1EzyieKWodB8i91nxScMRBUbNzGIVgFzN-e59omjQ7LI" target="_blank" rel="noreferrer">CLAIM TOKEN</a>
+                            <a className="claimBtn" href="https://discord.gg/pqVDAw7DE9" target="_blank" rel="noreferrer">Join Discord</a>
+                            <a className="claimBtn" href="https://twitter.com/goblinraidsnft" target="_blank" rel="noreferrer">Twitter</a>
                         </Des>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>10 REASONS WHY YOU NEED GBR DAO NFT</GoldTitle></LogoAligner>
