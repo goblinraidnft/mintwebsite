@@ -657,9 +657,9 @@ const Home = (props: HomeProps) => {
                     <DesContainer>
                     <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>The GOBLIN RAID DAO</GoldTitle></LogoAligner>
-                            <p>Goblin raid is a Collection of 1000 blue-chip NFTs that serve as a membership key in the <br />
+                            <p>Goblin raid is a Collection of 200 blue-chip NFTs that serve as a membership key in the <br />
                                 Goblin raid  DAO.</p>
-                                <p>Earn $GOBLET token and SOL from our staking platform. 49% of royalties goes into Staking 
+                                <p>Earn $GOBLET token from our staking platform. 49% of royalties goes into Staking 
                                     Pool Address. 21% goes into Community Treasury Address.</p>
                             <p>After the mint, each minted NFT will earn you 10,000 $GOBLET. eg. if you mint 3 NFTs your 
                                 airdrop will be (3 x 10,000) $GOBLET. <br />
@@ -668,6 +668,7 @@ const Home = (props: HomeProps) => {
                             <a className="claimBtn" href="https://docs.google.com/forms/d/1EzyieKWodB8i91nxScMRBUbNzGIVgFzN-e59omjQ7LI" target="_blank" rel="noreferrer">CLAIM TOKEN</a>
                             <a className="claimBtn" href="https://discord.gg/pqVDAw7DE9" target="_blank" rel="noreferrer">Join Discord</a>
                             <a className="claimBtn" href="https://twitter.com/goblinraidsnft" target="_blank" rel="noreferrer">Twitter</a>
+                            <a className="claimBtn" href="https://magiceden.io/drops/goblin_raid_dao" target="_blank" rel="noreferrer">Magic Eden</a>
                         </Des>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>10 REASONS WHY YOU NEED GBR DAO NFT</GoldTitle></LogoAligner>
@@ -682,7 +683,7 @@ const Home = (props: HomeProps) => {
                                     Launchpad, Staking, Delegating, Coinflip, Crash, NFT airdrops and Goblin Tower Defence P2E)!</li>
                                 <li>⇢ Passive income when staking your Goblin Raids (GR) NFT!</li>
                                 <li>⇢ Passive income From multiple Applications sources!</li>
-                                <li>⇢ Liquidity Token and Utility Token!</li>
+                                <li>⇢ A raffle system for great rewards.</li>
                                 <li>⇢ Future Collection Free Mint - As a holder of GR NFT!</li>
                                 <li>⇢ P2E - Play to Earn Tower Defence game!</li>
                                 <li>⇢ Cross-chain NFT Airdrop!</li>
