@@ -657,7 +657,7 @@ const Home = (props: HomeProps) => {
                     <DesContainer>
                     <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>The GOBLIN RAID DAO</GoldTitle></LogoAligner>
-                            <p>Goblin raid is a Collection of 200 blue-chip NFTs that serve as a membership key in the <br />
+                            <p>Goblin raid is a Collection of 130 blue-chip NFTs that serve as a membership key in the <br />
                                 Goblin raid  DAO.</p>
                                 <p>Earn $GOBLET token from our staking platform. 49% of royalties goes into Staking 
                                     Pool Address. 21% goes into Community Treasury Address.</p>
@@ -671,21 +671,17 @@ const Home = (props: HomeProps) => {
                             <a className="claimBtn" href="https://magiceden.io/drops/goblin_raid_dao" target="_blank" rel="noreferrer">Magic Eden</a>
                         </Des>
                         <Des elevation={2}>
-                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>10 REASONS WHY YOU NEED GBR DAO NFT</GoldTitle></LogoAligner>
+                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>REASONS WHY YOU NEED GBR DAO NFT</GoldTitle></LogoAligner>
                             <p>NFTs are no more all about the art, but investment. So we provide you with a utility packed 
                                 Project.<br />
-                                These are 10 reasons why you need to Join The Goblin Raid Project!</p>
+                                These are some reasons why you need to Join The Goblin Raid Project!</p>
                             <ul>
                                 <li>⇢ The next Blue Chip NFT project!</li>
                                 <li>⇢ DAO, Community Treasury, Funding from 70% royalty and Passive Pad System DAPPs!</li>
-                                <li>⇢ Advance NFT Staking and Breeding!</li>
-                                <li>⇢ Passive Pad System! ( A user interface for facilitating  Passive Income from <br />
-                                    Launchpad, Staking, Delegating, Coinflip, Crash, NFT airdrops and Goblin Tower Defence P2E)!</li>
+                                <li>⇢ Advance NFT Staking</li>
                                 <li>⇢ Passive income when staking your Goblin Raids (GR) NFT!</li>
-                                <li>⇢ Passive income From multiple Applications sources!</li>
                                 <li>⇢ A raffle system for great rewards.</li>
                                 <li>⇢ Future Collection Free Mint - As a holder of GR NFT!</li>
-                                <li>⇢ P2E - Play to Earn Tower Defence game!</li>
                                 <li>⇢ Cross-chain NFT Airdrop!</li>
                             </ul>
                         </Des>
